@@ -16,7 +16,7 @@ LANGUAGES AND TOOLS...
 
 
 
-<img src="https://github.com/user-attachments/assets/085029e3-13e4-40d1-bf1a-13ac286a1b13" height="30" width="30">   <img src="https://github.com/user-attachments/assets/bd6fc39c-0b01-4cda-937e-d42500c816cf" heigh="50" width="50">   <img src="https://github.com/user-attachments/assets/a8235189-fc66-403d-ae71-b750542ef8fb" height="50" width="50">
+<img src="https://github.com/user-attachments/assets/085029e3-13e4-40d1-bf1a-13ac286a1b13" height="40" width="40">   <img src="https://github.com/user-attachments/assets/bd6fc39c-0b01-4cda-937e-d42500c816cf" heigh="50" width="50">   <img src="https://github.com/user-attachments/assets/a8235189-fc66-403d-ae71-b750542ef8fb" height="50" width="50">
 
 
 
